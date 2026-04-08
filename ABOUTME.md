@@ -8,13 +8,13 @@ I'm Benjamin Montenegro, a 15 year-old student from Argentina. I'm still in high
 
 ## Music
 
-I mostly listen to rap, like almost exclusively haha. My go-to artists are Kendrick Lamar, Chief Keef, Playboi Carti, Lil Uzi Vert, Bad Bunny and Young Thug. When I'm coding though I switch to something more chill like Steve Lacy, Mac Miller, Baby Keem, Drake, ASAP Rocky, and still some Kendrick too.
+I mostly listen to rap, like almost exclusively haha. The artists i've been listening to lately are Kendrick Lamar, Chief Keef, Playboi Carti, Lil Uzi Vert, Bad Bunny and Young Thug. But when I'm coding though I switch to something more chill like Steve Lacy, Mac Miller, Baby Keem, Drake, ASAP Rocky, and still some Kendrick too, my musical taste is constantly changing so here i will be trying to keep it really updated.
 
 ---
 
 ## Hobbies
 
-Outside of coding I spend most of my time playing PC games, doing calisthenics, and listening to music. Lately I've been playing a lot of Kenshi and CS:GO. I've never played RPGs before and Kenshi made me fall in love with them haha.
+Outside of coding I spend most of my time playing PC games, doing calisthenics, and listening to music. Lately I've been playing a lot of Kenshi. I've never played RPGs before and Kenshi made me fall in love with them haha.
 
 ---
 
@@ -32,7 +32,7 @@ Honestly the opportunities it opens up, financially and career-wise. That's what
 
 ## Currently Learning
 
-Right now I'm focused on CS50P and growing my portfolio with real projects, but when i master Python i'm probably going to learn more CSS, HTML and Java Script
+Right now I'm focused on CS50P and growing my portfolio with real projects, but when i master Python i'm probably going to learn more CSS, HTML and Java Script.
 
 ---
 
