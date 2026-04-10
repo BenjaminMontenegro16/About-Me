@@ -14,7 +14,7 @@
 
 ## Hobbies
 
-*Outside of coding I spend most of my time playing PC games, doing ***calisthenics***, and listening to ***music***. Lately I've been playing a lot of ***Kenshi***. I've never played RPGs before and Kenshi made me fall in love with them haha.*
+*Outside of coding I spend most of my time playing PC games, doing ***calisthenics***, watching TV series, and listening to ***music***. Lately I've been playing a lot of ***Kenshi***. I've never played RPGs before and Kenshi made me fall in love with them haha, and about series i really liked Breaking Bad, How To Sell Drugs Online and Better Call Saul, but obviously, those are just to really get into a story and really enjoy the serie, if i'm chilling i like to watch Rick and Morty, Inside Job, or maybe some new Adult Animation. In YouTube i really like to watch this spanish Streamer/Youtuber called Jujalag, it's one of the best Youtubers/Streamers OAT in my opinion, it's really a chill guy, watch it when you want to chill, and if you know spanish obviously, and other Youtubers that i like are RickyEdit, TheKidLaw and Unicornio, they are all chill channels so, it's good to watch when you are eating or just when you are lazy on the couch haha.*
 
 ---
 
