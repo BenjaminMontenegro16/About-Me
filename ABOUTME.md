@@ -2,7 +2,7 @@
 
   ## Who am I?
 
-*I'm **Benjamin Montenegro**, a **15 year-old student from Argentina**. I'm still in high school but I've been teaching myself how to code on the side for a while now. **Currently grinding through Harvard's CS50P** while building projects whenever I get the time, i don't really like to study obviously, but i do like to learn new stuff that i LIKE, if i don't like what i need to study or learn i just can't get it in my head as i do to coding. I'm not antosocial BUT i don't really like going to clubs with no friends, let's say i'm selective with my friends and people i like, i guess that not normal haha.*
+*I'm **Benjamin Montenegro**, a **15 year-old student from Argentina**. I'm still in high school but I've been teaching myself how to code on the side for a while now. **Currently grinding through Harvard's CS50P** while building projects whenever I get the time, i don't really like to study obviously, but i do like to learn new stuff that i LIKE, if i don't like what i need to study or learn i just can't get it in my head as i do to coding. I'm not antosocial BUT i don't really like going to clubs with no friends, let's say i'm selective with my friends and people i like, i guess that not normal hahaha.*
 
 ---
 
